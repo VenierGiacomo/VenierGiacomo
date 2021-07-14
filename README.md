@@ -9,12 +9,12 @@
 - [Freelancing](https://github.com/VenierGiacomo/Algorithmic-Toolbox) | A sample of freelancign projects
 - [Django Firebase](https://github.com/VenierGiacomo/CS50-Web-Programming-with-Python-and-JavaScript) | Makes it easy to connect Django Projects to Firebase Services
 ### If you are intrested in the MOOC I followed:
-- [Harvard University - CS50 Introduction to Computer Science](https://github.com/VenierGiacomo/CS50-Introduction-to-computer-Science)
-- [Rice University - Principles of Computing](https://github.com/VenierGiacomo/Principles-of-Computing)
-- [Washington University - Programming Languages](https://github.com/VenierGiacomo/Programming-Languages)
-- [University of California San Diego - Algorithmic Toolbox](https://github.com/VenierGiacomo/Algorithmic-Toolbox)
-- [Harvard University - CS50 Web Programming with Python](https://github.com/VenierGiacomo/CS50-Web-Programming-with-Python-and-JavaScript)
-- [Microsoft DEVx - Advanced CSS Concepts ](https://github.com/VenierGiacomo/Advanced-CSS-Concepts)
+- Harvard University - [CS50 Introduction to Computer Science](https://github.com/VenierGiacomo/CS50-Introduction-to-computer-Science)
+- Rice University - [Principles of Computing](https://github.com/VenierGiacomo/Principles-of-Computing)
+- Washington University - [Programming Languages](https://github.com/VenierGiacomo/Programming-Languages)
+- University of California San Diego - [Algorithmic Toolbox](https://github.com/VenierGiacomo/Algorithmic-Toolbox)
+- Harvard University - [CS50 Web Programming with Python](https://github.com/VenierGiacomo/CS50-Web-Programming-with-Python-and-JavaScript)
+- Microsoft DEVx - [Advanced CSS Concepts ](https://github.com/VenierGiacomo/Advanced-CSS-Concepts)
 
 <!---
 VenierGiacomo/VenierGiacomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
