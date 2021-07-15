@@ -6,8 +6,8 @@
 - [Prenota](https://github.com/VenierGiacomo/CS50-Introduction-to-computer-Science)   |  Book and Pay Online for Local Services. Used by 5000+ users and more than 40.000€ worth of services booked per month.
 - [Django Onesignal](https://github.com/VenierGiacomo/CS50-Web-Programming-with-Python-and-JavaScript) | A Python library that creates an easy to use wrapper for 
 the Onesignal REST API
-- [AM](https://github.com/VenierGiacomo/Principles-of-Computing) | Daily Fantisy Sport
-- [COVID 19](https://github.com/VenierGiacomo/Programming-Languages) | Covid Updates 
+- [AM](https://github.com/VenierGiacomo/Principles-of-Computing) | Daily Fantisy Sport Mobile App
+- [COVID 19](https://github.com/VenierGiacomo/Programming-Languages) | Covid Updates Mobile App
 - [Freelancing](https://github.com/VenierGiacomo/Algorithmic-Toolbox) | A sample of freelancign projects
 
 ### 📚 If you are intrested in the MOOC I followed:
