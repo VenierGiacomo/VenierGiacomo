@@ -7,7 +7,7 @@
 - [AM](https://github.com/VenierGiacomo/Principles-of-Computing) | Daily Fantisy Sport
 - [COVID 19](https://github.com/VenierGiacomo/Programming-Languages) | Covid Updates 
 - [Freelancing](https://github.com/VenierGiacomo/Algorithmic-Toolbox) | A sample of freelancign projects
-- [Django Firebase](https://github.com/VenierGiacomo/CS50-Web-Programming-with-Python-and-JavaScript) | Makes it easy to connect Django Projects to Firebase Services
+- [Django Onesignal](https://github.com/VenierGiacomo/CS50-Web-Programming-with-Python-and-JavaScript) | A Python library that creates an easy to use wrapper for the Onesignal RESR API
 ### 📚 If you are intrested in the MOOC I followed:
 - Harvard University - [CS50 Introduction to Computer Science](https://github.com/VenierGiacomo/CS50-Introduction-to-computer-Science)
 - Rice University - [Principles of Computing](https://github.com/VenierGiacomo/Principles-of-Computing)
