@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Giacomo Venier
-[CV](https://pdfhost.io/v/P3gPHOgCp_CVpdf.pdf#.YO8AJaLV3BI) - [Twitter](https://twitter.com/giacomovenier)
+[CV](https://pdfhost.io/v/K7mC5pDCV_CVpdf.pdf) - [Twitter](https://twitter.com/giacomovenier)
 ## The purpose of this file is to help you navigate my GitHub
 
 ### 💻 If you are intrested in my works:
