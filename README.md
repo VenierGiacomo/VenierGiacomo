@@ -3,7 +3,7 @@
 ## I'm intrested in Startups, Tech companies and Crypto. 
 
 ### 💻 If you are intrested in my works:
-- [Prenota](https://github.com/VenierGiacomo/CS50-Introduction-to-computer-Science)   |  Book and Pay Online for Local Services (used - more than 40.000€ per month of services booked)
+- [Prenota](https://github.com/VenierGiacomo/CS50-Introduction-to-computer-Science)   |  Book and Pay Online for Local Services. Used by 5000+ users and more than €40.000€ of services booked per month.)
 - [Django Onesignal](https://github.com/VenierGiacomo/CS50-Web-Programming-with-Python-and-JavaScript) | A Python library that creates an easy to use wrapper for 
 the Onesignal REST API
 - [AM](https://github.com/VenierGiacomo/Principles-of-Computing) | Daily Fantisy Sport
