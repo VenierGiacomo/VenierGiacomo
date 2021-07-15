@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Giacomo Venier
 [CV](https://pdfhost.io/v/K7mC5pDCV_CVpdf.pdf) - [Twitter](https://twitter.com/giacomovenier)
-## The purpose of this file is to help you navigate my GitHub
+<!-- ## The purpose of this file is to help you navigate my GitHub -->
 
 ### 💻 If you are intrested in my works:
 - [Prenota](https://github.com/VenierGiacomo/CS50-Introduction-to-computer-Science)   |  Book and Pay Online for Local Services
