@@ -7,7 +7,7 @@
 - [Django Onesignal](https://github.com/VenierGiacomo/Django-Onesignal) | A Python library that creates an easy to use wrapper for 
 the Onesignal REST API
 - [AM](https://github.com/VenierGiacomo/Principles-of-Computing) | Daily Fantisy Sport Mobile App
-- [COVID 19](https://github.com/VenierGiacomo/Programming-Languages) | Covid Updates Mobile App
+- [COVID 19](https://github.com/VenierGiacomo/COVID-19) | Covid Updates Mobile App
 - [Freelancing](https://github.com/VenierGiacomo/Algorithmic-Toolbox) | A sample of freelancign projects
 
 ### 📚 If you are intrested in the MOOC I followed:
