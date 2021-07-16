@@ -4,7 +4,7 @@
 
 ### 💻 If you are intrested in my works:
 - [Prenota](https://github.com/VenierGiacomo/Prenota-PWA/blob/main/README.md)   |  Book and Pay Online for Local Services. Used by 5000+ users and more than 40.000€ worth of services booked per month.
-- [Django Onesignal](https://github.com/VenierGiacomo/CS50-Web-Programming-with-Python-and-JavaScript) | A Python library that creates an easy to use wrapper for 
+- [Django Onesignal](https://github.com/VenierGiacomo/Django-Onesignal) | A Python library that creates an easy to use wrapper for 
 the Onesignal REST API
 - [AM](https://github.com/VenierGiacomo/Principles-of-Computing) | Daily Fantisy Sport Mobile App
 - [COVID 19](https://github.com/VenierGiacomo/Programming-Languages) | Covid Updates Mobile App
