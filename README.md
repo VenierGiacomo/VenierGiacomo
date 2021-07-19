@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Giacomo Venier
-[CV](https://firebasestorage.googleapis.com/v0/b/ionic-firebase-starter-a-b68b6.appspot.com/o/CV_GiacomoVenier.pdf?alt=media&token=5e069e58-b261-48e3-8ece-630a809b9c9c) - [Twitter](https://twitter.com/giacomovenier)
+[CV](https://firebasestorage.googleapis.com/v0/b/ionic-firebase-starter-a-b68b6.appspot.com/o/CV_GiacomoVenier.pdf?alt=media&token=ab1770d1-91ab-4f5b-88ff-5aae8bd8b026) - [Twitter](https://twitter.com/giacomovenier)
 ## I'm intrested in Startups, Tech companies and Crypto. 
 
 ### 💻 If you are intrested in my works: 
