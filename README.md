@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Giacomo Venier
 [Twitter](https://twitter.com/giacomovenier)
-## I'm intrested in Startups, Tech companies and Bitcoin. 
+## I'm interested in Startups, Tech companies and Bitcoin. 
 
 ### 💻 If you are intrested in my works: 
 - Currently working on: https://www.simpleworkapps.com/
